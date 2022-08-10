@@ -1,0 +1,41 @@
+.tabelaCadastro {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th {
+    font-size: 20px;
+}
+
+td {
+    font-size: 18px;
+}
+
+.tituloCadastro {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.celulaJusta {
+    width: 5px;
+}
+
+.cadastroJogador {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.botaoAdicionar {
+    margin-top: 10px;
+    margin-left: 45px;
+}
+
+.proximaEtapa {
+    width: 20%;
+    margin: auto;
+    margin-top: 30px;
+}

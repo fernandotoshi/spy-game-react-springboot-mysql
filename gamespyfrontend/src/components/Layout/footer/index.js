@@ -4,7 +4,7 @@ import { Row, Col, Card } from 'react-bootstrap';
 class Footer extends Component {
     render(){
         return (
-            <Row className="footer justify-content-md-center text-center pb-4">
+            <Row className="footer">
                 <Col md={2}>
                     <Card className="footer-card mx-4 p-2">
                         Sobre
