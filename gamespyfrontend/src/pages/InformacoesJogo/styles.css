@@ -4,24 +4,21 @@
     text-align: center;
 }
 
-input.btneg {
-    border-radius: 5cm;
-    width: 40px;
-    height: 0.8cm;
+.quadroInfo {
+    border-style: outset;
 }
 
-input.btpos {
-    border-radius: 5cm;
-    width: 40px;
-    height: 0.8cm;
+.divCampo {
+    font-weight: bold;
 }
 
-.qntEspioes {
-    width: 40px;
-    margin-left: 20px;
+.quadroPlacar {
+    margin-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-style: outset;
 }
 
-.containerInfoJogo {
-    margin: auto;
-    width: 80%;
+.linhaBotoes {
+    margin-top: 10px;
 }

@@ -11,6 +11,7 @@ import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import CadastroJogadores from './pages/CadastroJogadores';
 import InformacoesJogo from './pages/InformacoesJogo';
+import Jogo from './pages/Jogo';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route path="cadastroJogadores" element={<CadastroJogadores />} />
           <Route path="informacoesJogo" element={<InformacoesJogo/>} />
+          <Route path="jogo" element={<Jogo/>} />
           <Route path="*" element={
             <div>There's nothing here!</div>
           } />

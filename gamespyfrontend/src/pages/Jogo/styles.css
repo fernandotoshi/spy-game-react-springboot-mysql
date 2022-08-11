@@ -1,0 +1,29 @@
+.tituloJogo {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.quadroJogo {
+    border-style: outset;
+}
+
+.quadroInformacao {
+    background-color: black;
+    width: auto;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.quadroJogadores {
+    border-style: outset;
+    width: auto;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.textoBranco {
+    color: white;
+}
