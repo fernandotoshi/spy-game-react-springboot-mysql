@@ -1,3 +1,6 @@
+insert into jogador (id, nome, telefone) values (1, 'Taka', '974188043');
+insert into jogador (id, nome, telefone) values (2, 'Gabi', '995650554');
+
 insert into lugar (id, nome) values (1, 'Praia');
 insert into lugar (id, nome) values (2, 'Escritório');
 insert into lugar (id, nome) values (3, 'Zoológico');

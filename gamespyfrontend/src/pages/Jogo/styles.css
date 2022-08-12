@@ -14,6 +14,8 @@
     height: 500px;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: center;
+    position: relative;
 }
 
 .quadroJogadores {
@@ -22,8 +24,31 @@
     height: 500px;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .textoBranco {
     color: white;
+    position: relative;
+    top: 30%;
+    font-size: 40px;
+}
+
+.botaoSugestao {
+    position: relative;
+    top: 40%;
+}
+
+.textoSugestao {
+    color: rgb(253, 181, 27);
+    position: relative;
+    top: 60%;
+    font-size: 30px;
+}
+
+.checkboxJogador {
+    text-align: justify;
+    font-size: 30px;
+    width: 40%;
+    margin: auto;
 }
